@@ -19,6 +19,8 @@ npm run build
 ```
 npm run lint
 ```
+### Screenshot
+![vue-todo-list](https://user-images.githubusercontent.com/30346330/183422758-ca34e399-80b3-49fd-bb86-aa8d6ecc992a.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
